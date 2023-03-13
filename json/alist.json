@@ -29,8 +29,8 @@
       "server": "https://zi0.cc"
     },
     {
-      "name": "Testing purpose",
-      "server": "https://alist.you-mostmost.repl.co"
+      "name": "自建alist",
+      "server": "http://132.226.175.69:5244"
     }
   ]
 }
